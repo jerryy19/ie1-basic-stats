@@ -17,5 +17,6 @@ class Calc {
 
         System.out.println("Minimum: " + min);
         System.out.println("Maximum: " + max);
+        System.out.println("Done");
     }
 }
